@@ -1,0 +1,10 @@
+* py4cl
+
+Call python from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/bendudson/py4cl.git   |
+| commit  | b019b0c  |
+| systems | py4cl |
+|---------+-------------------------------------------|
+
